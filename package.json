@@ -1,0 +1,40 @@
+{
+  "name": "rf-design-ce",
+  "version": "0.0.1",
+  "description": "A Web Components UI library building with Vue 3.2",
+  "main": "dist/index.es.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawlinsfeng/rf-design-ce.git"
+  },
+  "author": "rawlinsfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rawlinsfeng/rf-design-ce/issues"
+  },
+  "homepage": "https://github.com/rawlinsfeng/rf-design-ce#readme",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "Web Components",
+    "component",
+    "library",
+    "UI",
+    "Vue",
+    "vite"
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.9",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  }
+}
